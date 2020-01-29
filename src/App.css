@@ -1,4 +1,8 @@
-.App {
+/* * {
+  background-image: url("/images/background.jpeg");
+} */
+
+.App, html {
   text-align: center;
 }
 
@@ -7,10 +11,24 @@
   pointer-events: none;
 }
 
+body {
+  background-image: url("/images/background.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: right top; */
+  background-attachment: fixed;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+h3 {
+  width: 100%;
+  text-align: center;
+  color: darkblue;
 }
 
 .App-header {
@@ -21,7 +39,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  /* color: white; */
 }
 
 .App-link {

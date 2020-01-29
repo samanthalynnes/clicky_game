@@ -1,0 +1,25 @@
+.navbar {
+    min-width: 100%;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    color: darkblue;
+    background-color: lightgrey;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+ul {
+    width: 100%;
+    list-style-type: none;
+}
+
+.logo {
+    float: left;
+}
+
+.score {
+    float: right;
+}

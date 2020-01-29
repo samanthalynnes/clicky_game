@@ -1,0 +1,33 @@
+html {
+    background-image: url("/images/background.jpeg");
+}
+
+.card {
+    height: 250px;
+    position: relative;
+    width: 325px;
+    text-align: left;
+    border-radius: 2px;
+    margin: 1rem;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.card > .img-container > img {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+}

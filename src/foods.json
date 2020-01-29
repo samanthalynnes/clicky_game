@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Burger",
+        "image": "./images/burger.jpeg",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Cake",
+        "image": "./images/cake.jpeg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Fries",
+        "image": "./images/fries.jpeg",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Pancakes",
+        "image": "./images/pancakes.jpeg",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Pasta",
+        "image": "./images/pasta.jpeg",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Pizza",
+        "image": "./images/pizza.jpeg",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Salad",
+        "image": "./images/salad.jpg",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Salmon",
+        "image": "./images/salmon.jpeg",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Sandwich",
+        "image": "./images/sandwich.jpeg",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Spaghetti",
+        "image": "./images/spaghetti.jpeg",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Steak",
+        "image": "./images/steak.jpeg",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Sushi",
+        "image": "./images/sushi.jpeg",
+        "count": 0
+    }
+]

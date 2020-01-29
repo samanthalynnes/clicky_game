@@ -1,0 +1,17 @@
+html {
+    background-image: url("/public/images/background.jpeg");
+}
+
+.wrapper {
+    padding-top: 50px;
+    /* height: 100%; */
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
